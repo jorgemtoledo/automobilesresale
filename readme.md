@@ -10,10 +10,17 @@
 
 Este e um sistema para revenda de carros.
 
+
+![Automobiles Resale](https://github.com/jorgemtoledo/automobilesresale/blob/master/public/img/car_01.png).
+![Empresa](https://github.com/jorgemtoledo/automobilesresale/blob/master/public/img/car_02.png).
+![Contato](https://github.com/jorgemtoledo/automobilesresale/blob/master/public/img/car_03.png).
+![Login](https://github.com/jorgemtoledo/automobilesresale/blob/master/public/img/car_04.png).
+![Cadastro](https://github.com/jorgemtoledo/automobilesresale/blob/master/public/img/car_05.png).
+
 ## Requisitos
 
 - PHP > 7
-- Laravel > 5.3
+- Laravel > 5.4
 - Mysql
 - Materialize
 
